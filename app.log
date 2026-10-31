@@ -1,0 +1,17 @@
+2026-10-29 20:16:12,308 INFO snap_ocr SnapOCR 启动
+2026-10-29 20:16:12,498 INFO snap_ocr.modules.app 全局热键已注册: ctrl+alt+z
+2026-10-29 20:16:12,695 INFO snap_ocr.modules.ocr_engine OCR 引擎已加载（CPU）
+2026-10-29 20:16:12,701 INFO snap_ocr.modules.ocr_engine OCR warmup 完成
+2026-10-29 20:16:47,251 INFO snap_ocr.modules.history 历史已保存: 20261029-201647 (10字)
+2026-10-29 21:01:13,643 INFO snap_ocr SnapOCR 启动
+2026-10-29 21:01:13,783 INFO snap_ocr.modules.app 全局热键已注册: ctrl+alt+z
+2026-10-29 21:01:14,001 INFO snap_ocr.modules.ocr_engine OCR 引擎已加载（CPU）
+2026-10-29 21:01:14,005 INFO snap_ocr.modules.ocr_engine OCR warmup 完成
+2026-10-29 21:02:39,954 INFO snap_ocr.modules.history 历史已保存: 20261029-210239 (13字)
+2026-10-31 17:15:10,037 INFO snap_ocr SnapOCR 启动
+2026-10-31 17:15:10,200 INFO snap_ocr.modules.app 全局热键已注册: ctrl+alt+z
+2026-10-31 17:15:10,401 INFO snap_ocr.modules.ocr_engine OCR 引擎已加载（CPU）
+2026-10-31 17:15:10,406 INFO snap_ocr.modules.ocr_engine OCR warmup 完成
+2026-10-31 17:34:38,220 INFO snap_ocr.modules.ocr_engine OCR 引擎已加载（CPU）
+2026-10-31 17:34:44,351 INFO snap_ocr.modules.ocr_engine OCR 引擎已加载（CPU）
+2026-10-31 17:35:05,213 INFO snap_ocr.modules.ocr_engine OCR 引擎已加载（CPU）

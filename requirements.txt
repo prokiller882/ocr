@@ -1,0 +1,12 @@
+# SnapOCR 依赖锁定
+# OCR 引擎（本地 wheel：自带 onnxruntime / opencv-python / numpy / pyclipper）
+./ppocrv6_onnx-1.0.0-py3-none-any.whl
+# 显式声明引擎的传递依赖（版本下限，用于可读性；已随 wheel 自动安装）
+onnxruntime>=1.14.0
+opencv-python>=4.5.0
+numpy>=1.21.0
+pyclipper>=1.3.0
+
+# 托盘图标 + 截图
+pystray>=0.19.5
+Pillow>=9.0.0
