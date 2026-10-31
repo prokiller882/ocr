@@ -1,0 +1,17 @@
+{
+  "hotkey": "ctrl+alt+z",
+  "auto_copy": false,
+  "language": "chinese_english",
+  "history_limit": 50,
+  "overlay_style": "bright",
+  "overlay_opacity": 0.4,
+  "preprocess_scale": 100,
+  "preprocess_padding": 0,
+  "ocr_det_model": "",
+  "ocr_rec_model": "",
+  "ocr_char_dict": "",
+  "ocr_det_thresh": 0.3,
+  "ocr_det_box_thresh": 0.6,
+  "ocr_det_unclip_ratio": 1.5,
+  "ocr_rec_batch_size": 6
+}
